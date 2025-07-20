@@ -7,7 +7,9 @@ This interactive Power BI dashboard provides a comprehensive analysis of sales, 
 - JUICIO_Pizza_Empire.pbix: Power BI dashboard file
 - README.md: Project documentation
 - Dashboard_preview.png: Screenshot of the main dashboard
+
 ![screenshot](./images/Dashbd1.png)
+
 ![screenshot](./images/Dashbd2.png)
 [Link to published dashboard](https://app.powerbi.com/reportEmbed?reportId=e1d8c82a-abb7-4576-b2a3-13fddb5fe4d6&autoAuth=true&ctid=8181d9cb-5210-43e7-9ee2-65cd69ce2a3a) but you will need access to view it.
 
